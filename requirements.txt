@@ -1,0 +1,3 @@
+使用するライブラリの明示
+・streamlit
+・Pillow
